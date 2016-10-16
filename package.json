@@ -1,0 +1,14 @@
+{
+  "name": "elasticsearch-querybuilder-js",
+  "version": "0.1.0",
+  "description": "",
+  "main": [],
+  "scripts": {
+    "compile": "tsc",
+    "test": "tsc && mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.6"
+  }
+}
